@@ -1,7 +1,4 @@
 # Autonomous_RockyBorg
-<<<<<<< HEAD
-Open-CV based path following robot
-=======
 
 A black line-following robot implementation using Raspberry Pi, PiCamera2, with servo steering control. The robot can follow black lines, detect cross junctions.
 
@@ -49,4 +46,3 @@ main/
 - Line Tracking (https://github.com/fustyles/Arduino/blob/master/ESP32-CAM_Car/ESP32-CAM_CAR_TrackColorline_Tracking.js/ESP32-CAM_CAR_TrackColorline_Tracking.js.ino)
 - https://github.com/abaeyens/image-processing/tree/master/RCJ_2014
 - https://www.youtube.com/watch?v=o2ul4KrLT-s
->>>>>>> 30e29e0 (Initial commit - Autonomous RockyBorg Project)
